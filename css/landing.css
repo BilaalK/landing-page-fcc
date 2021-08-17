@@ -1,11 +1,17 @@
 html{
     text-align: center;
+    color:thistle;
     margin: 3vh;
+    background-image: url(https://thumbs.gfycat.com/WeightyDopeyCats-size_restricted.gif);
     scroll-behavior: smooth;
 }
 
 h1, h2{
     font-size: 3vmax;
+}
+
+p{
+  font-size: 3vmin;
 }
 
 header{
